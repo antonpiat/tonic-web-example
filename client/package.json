@@ -17,9 +17,11 @@
     "@protobuf-ts/plugin": "^2.11.1",
     "@protobuf-ts/runtime": "^2.11.1",
     "@protobuf-ts/runtime-rpc": "^2.11.1",
+    "@tailwindcss/vite": "^4.3.1",
     "@types/node": "^24.12.3",
     "@vitejs/plugin-vue": "^6.0.6",
     "@vue/tsconfig": "^0.9.1",
+    "tailwindcss": "^4.3.1",
     "typescript": "~6.0.2",
     "vite": "^8.0.12",
     "vue-tsc": "^3.2.8"
